@@ -5,7 +5,7 @@ How to use
 ----------
 
 * 🌍  I'm based in thai
-* 🖥️  See my portfolio at [node js dowload](http://nodejs.org/en/download/)
+* 🖥️  Download [node js dowload](http://nodejs.org/en/download/)
 * ✉️  You can contact me at [theeta1861@gmail.com](mailto:theeta1861@gmail.com)
 * 🚀  I'm currently working on [primo-apiview](http://pr-apimile.online/)
 
